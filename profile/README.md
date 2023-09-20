@@ -23,10 +23,9 @@ lmsGenie will have following features,
 ## Want to contribute?
 Feel like contributing? That's awesome! We have a [contributing guide](https://github.com/lmsGenie/client/blob/main/.github/CONTRIBUTING.md) to help guide you. 
 
-In many ways you can contribute to this project.
-- Reporting Bugs
-- Implementing features
-- Code Review
+Checkout our main repositories,
+- [lmsGenie/client: For Frontend](https://github.com/lmsGenie/client)
+- [lmsGenie/server: For Backend](https://github.com/lmsGenie/server)
 
 Want to discuss something? [Create a discussion](https://github.com/orgs/lmsGenie/discussions/new/choose)
 
