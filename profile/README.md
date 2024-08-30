@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="logo" src="https://github.com/lmsGenie/client/assets/43786036/fda77759-f5dc-4578-b4b0-9417bedc3957" width="150"/>
+  <img alt="logo" src="https://github.com/user-attachments/assets/e981a954-6402-440c-914e-20e23aafeff8" width="150"/>
   <h2> :dizzy: lmsGenie | An Open Source Learning Managment Sysyem :dizzy:</h2>
   
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
